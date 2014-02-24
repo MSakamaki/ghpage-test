@@ -1,0 +1,17 @@
+{
+  "name": "githubadminpage",
+  "version": "0.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-gh-pages":"~0.9.1",
+    "requirejs": "~2.1.11"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  }
+}
+
